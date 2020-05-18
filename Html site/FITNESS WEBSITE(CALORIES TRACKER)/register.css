@@ -1,0 +1,88 @@
+body{
+	background-image: url(rg.jpg);
+	background-size: cover;
+
+	
+}
+input[type=text]:focus,input[type=password]:focus,input[type=email]:focus{
+
+	background-color: #ddd;
+	outline: none;
+}
+
+input[type=text]{
+	width: 18%;
+	padding:10px;
+
+}
+
+input[type=password]{
+	width: 18%;
+	padding: 10px;
+
+}
+
+input[type=email]{
+	width: 18%;
+	padding:10px;
+}
+
+input[type=date]{
+	width: 18%;
+	padding:10px;
+}
+
+.sbutton{
+	width: 10%;
+	height: 05%;
+
+	}
+
+.rgstr{
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.sbmt{
+	text-align: center
+	
+}
+
+
+
+.center{
+
+	text-align: center;
+}
+
+
+.txt{
+	margin-right: 26px;
+}
+
+.pwds{
+	margin-right: 31px;
+
+}
+
+
+.em{
+	margin-right: 20px;
+}
+
+.bdate{
+	margin-right: 29px;
+}
+
+.drp{
+	height: 30px;
+}
+
+.fmale{
+	margin-right: 26px;
+}
+
+.othrs{
+	margin-right: 11px;
+}
